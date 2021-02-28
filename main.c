@@ -1,26 +1,14 @@
 /* ========================================
  *
- * Copyright (c) Team Entropy 2020 - Public Release
+ * Copyright (c) prisma.ai - Public Release
  * License: GNU GPL v3
  *
  * @file    main.c
- * @date    1 Sep 2020 / Public Release Date: 7 Nov 2020
+ * @date    1 Sep 2020 / Public Release Date: 7 Nov 2020 / Updated: Feb 2021
  * @version 3.4.0
- * @brief   Entry point for the Safe Signal Band
+ * @brief   Entry point for the prisma.ai Bracelet
  * @author  David Pescariu
  * @github  https://github.com/entropy-dpit/Safe-Signal-Band
- *
- * ========================================
- * 
- * Special thanks:
- *      - Bosch Engineering Center Cluj, especially
- *          George Mois
- *          Vlad Stroian
- *         > Who helped us during the development proccess
- *
- *      - Academia DPIT for giving us the chance to participate in this contest
- *
- * ========================================
  *
  *  Tested on CY8C4247LQ1-BL483 | PSoC Creator 4.3 (4.3.0.1445)
  * 

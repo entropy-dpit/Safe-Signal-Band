@@ -1,6 +1,6 @@
 /* ========================================
  *
- * Copyright (c) Team Entropy 2020
+ * Copyright (c) prisma.ai
  * All Rights Reserved
  *
  * @file    button_func.c
